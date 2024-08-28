@@ -1,6 +1,6 @@
 ## Olá! eu sou o Victor Felipe
 - 🔭 Hoje estou a procura do meu primeiro trabalho na área de T.I.
-- 🌱 Estudando: EMCAScript/Bootstrap/Java.
+- 🌱 Estudando: Desenvolvimento de sistemas - Etec Fernando Prestes.
 - 😄 Pronomes: Ele/Dele.
 
 <div>
